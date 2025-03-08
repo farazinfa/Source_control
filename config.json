@@ -1,0 +1,8 @@
+{
+    "username": "faraz_husain_new",
+    "password": "Infa@12345",
+	"iics_base_url": "https://dm-us.informaticacloud.com/saas",
+	"iics_pod_url":  "https://usw5.dm-us.informaticacloud.com/saas",
+	"mappingtask_name": "MCT_MCT_SHARED_SEQ2",
+	"number_of_iteration": 5
+}
