@@ -90,7 +90,7 @@ def checkin_object(sessionId, run_count,task_name,object_id):
       "id": object_id
     }
   ],
-  "summary": "Revised Revised m_custArch"
+  "summary": "Revised Revised m_custArch-1"
 }
     response = requests.post(checkin_url, headers=headers, json=payload)
     print(response)
